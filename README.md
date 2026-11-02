@@ -14,11 +14,19 @@ Latest Version Android Studio
 1.Launch the Android application. 
 
 2.Create an Implicit Intent object. 
+
 3.Specify the required action (ACTION_VIEW, ACTION_DIAL, ACTION_SEND, etc.). 
+
 4.Attach the required data using Uri.parse(). 
+
 5.Invoke startActivity() with the Intent. 
-6.Android searches for a compatible application. 7.Display the app chooser if multiple apps are available. 
+
+6.Android searches for a compatible application. 
+
+7.Display the app chooser if multiple apps are available. 
+
 8.Launch the selected application. 
+
 9.Perform the requested action.
 
 ## PROGRAM:
