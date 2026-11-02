@@ -12,6 +12,7 @@ Latest Version Android Studio
 ## ALGORITHM:
 
 1.Launch the Android application. 
+
 2.Create an Implicit Intent object. 
 3.Specify the required action (ACTION_VIEW, ACTION_DIAL, ACTION_SEND, etc.). 
 4.Attach the required data using Uri.parse(). 
